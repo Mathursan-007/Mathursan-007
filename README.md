@@ -1,4 +1,4 @@
  Hi I am Mathursan👋
 
-- 🌱 I’m currently learning ...
+- 🌱 I am a Software Engineering Undergraduate.
 

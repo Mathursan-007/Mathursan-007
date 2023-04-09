@@ -1,6 +1,6 @@
  Hi I am Mathursan👋
  
--  🌱 Associate Software Engineering @ SyscoLABS Sri Lanka.
+-  🌱 Associate Software Engineer @ SyscoLABS Sri Lanka.
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=mathursan-007&show_icons=true&theme=react">
